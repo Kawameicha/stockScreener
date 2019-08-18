@@ -1,0 +1,41 @@
+symbol,company,sector,industry
+AC.PA,Accor,Consumer Cyclical,Lodging
+AI.PA,Air Liquide,Basic Materials,Chemicals
+AIR.PA,Airbus,Industrials,Aerospace & Defense
+MT.AS,ArcelorMittal,Basic Materials,Steel
+ATO.PA,Atos,Technology,Information Technology Services
+CS.PA,AXA,Financial Services,Insurance - Diversified
+BNP.PA,BNP Paribas,Financial Services,Banks - Regional - Europe
+EN.PA,Bouygues,Industrials,Engineering & Construction
+CAP.PA,Capgemini,Technology,Information Technology Services
+CA.PA,Carrefour,Consumer Defensive,Grocery Stores
+ACA.PA,Crédit Agricole,Financial Services,Banks - Regional - Europe
+BN.PA,Danone,Consumer Defensive,Packaged Foods
+DSY.PA,Dassault Systèmes,Technology,Software
+ENGI.PA,Engie,Utilities,Utilities - Diversified
+EL.PA,Essilor,Healthcare,Medical Instruments & Supplies
+KER.PA,Kering,Consumer Cyclical,Footwear & Accessories
+OR.PA,L'Oréal,Consumer Defensive,Household & Personal Products
+LHN.PA,LafargeHolcim,Basic Materials,Building Materials
+LR.PA,Legrand,Industrials,Diversified Industrials
+MC.PA,LVMH,Consumer Cyclical,Luxury Goods
+ML.PA,Michelin,Consumer Cyclical,Rubber & Plastics
+ORA.PA,Orange,Communication Services,Telecom Services
+RI.PA,Pernod Ricard,Consumer Defensive,Beverages - Wineries & Distilleries
+UG.PA,PSA Peugeot Citroën,Consumer Cyclical,Auto Manufacturers
+PUB.PA,Publicis,Consumer Cyclical,Advertising Agencies
+RNO.PA,Renault,Consumer Cyclical,Auto Manufacturers
+SAF.PA,Safran,Industrials,Aerospace & Defense
+SGO.PA,Saint-Gobain,Basic Materials,Building Materials
+SAN.PA,Sanofi,Healthcare,Drug Manufacturers - Major
+SU.PA,Schneider Electric,Industrials,Diversified Industrials
+GLE.PA,Société Générale,Financial Services,Banks - Regional - Europe
+SW.PA,Sodexo,Industrials,Business Services
+STM.PA,STMicroelectronics,Technology,Semiconductors
+FTI.PA,TechnipFMC,Energy,Oil & Gas Equipment & Services
+FP.PA,Total,Energy,Oil & Gas Integrated
+URW.AS,Unibail-Rodamco-Westfield,Real Estate,REIT - Retail
+FR.PA,Valeo,Consumer Cyclical,Auto Parts
+VIE.PA,Veolia,Industrials,Waste Management
+DG.PA,Vinci,Industrials,Engineering & Construction
+VIV.PA,Vivendi,Consumer Cyclical,Broadcasting - TV
