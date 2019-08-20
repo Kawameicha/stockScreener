@@ -1,0 +1,601 @@
+symbol,company,sector,industry
+III.L,3i Group,Financial Services,Asset Management
+MAERSK-B.CO,A.P. Moller-Maersk,Industrials,Shipping & Ports
+A2A.MI,A2A,Utilities,Utilities - Diversified
+AAK.ST,AAK,Consumer Defensive,Packaged Foods
+AALB.AS,Aalberts,Industrials,Diversified Industrials
+ABBN.SW,ABB,Industrials,Diversified Industrials
+ABN.AS,ABN AMRO Bank,Financial Services,Banks - Global
+AC.PA,Accor,Consumer Cyclical,Lodging
+ACKB.BR,Ackermans & Van Haaren,Financial Services,Asset Management
+ACS.MC,ACS,Industrials,Engineering & Construction
+ADEN.SW,Adecco,Industrials,Staffing & Outsourcing Services
+ADS.DE,Adidas,Consumer Cyclical,Footwear & Accessories
+ADM.L,Admiral Group,Financial Services,Insurance - Property & Casualty
+ADP.PA,ADP,Industrials,Airports & Air Services
+ADYEN.AS,Adyen,Technology,Software - Application
+AGN.AS,Aegon,Financial Services,Insurance - Diversified
+AENA.MC,Aena SME,Industrials,Infrastructure Operations
+AGS.BR,Ageas,Financial Services,Insurance - Diversified
+AGK.L,Aggreko,Industrials,Rental & Leasing Services
+AD.AS,Ahold Delhaize,Consumer Defensive,Grocery Stores
+A5G.IR,AIB Group,Financial Services,Banks - Regional - Europe
+AF.PA,Air France-KLM,Industrials,Airlines
+AI.PA,Air Liquide,Basic Materials,Chemicals
+AIR.PA,Airbus,Industrials,Aerospace & Defense
+AKERBP.OL,Aker BP,Energy,Oil & Gas E&P
+AKZA.AS,Akzo Nobel,Basic Materials,Specialty Chemicals
+ALC.SW,Alcon,Healthcare,Medical Instruments & Supplies
+ALFA.ST,Alfa Laval,Industrials,Diversified Industrials
+ALV.DE,Allianz,Financial Services,Insurance - Diversified
+ALO.PA,Alstom,Industrials,Diversified Industrials
+ATE.PA,Alten,Technology,Information Technology Services
+ALT.PA,Altran Technologies,Industrials,Engineering & Construction
+AMS.MC,Amadeus IT Group,Technology,Information Technology Services
+AMBU-B.CO,Ambu,Healthcare,Medical Devices
+AMP.MI,Amplifon,Healthcare,Medical Instruments & Supplies
+AMS.SW,AMS,Technology,Semiconductors
+AMUN.PA,Amundi,Financial Services,Asset Management
+ANDR.VI,Andritz,Industrials,Industrial Distribution
+AAL.L,Anglo American,Basic Materials,Industrial Metals & Minerals
+ABI.BR,Anheuser-Busch InBev,Consumer Defensive,Beverages - Brewers
+ANTO.L,Antofagasta,Basic Materials,Copper
+MT.AS,ArcelorMittal,Basic Materials,Steel
+ARGX.BR,Argenx,Healthcare,Biotechnology
+AKE.PA,Arkema,Basic Materials,Specialty Chemicals
+AT1.DE,Aroundtown,Real Estate,Real Estate - General
+ASHM.L,Ashmore Group,Financial Services,Asset Management
+AHT.L,Ashtead Group,Industrials,Rental & Leasing Services
+ASM.AS,ASM International,Technology,Semiconductor Equipment & Materials
+ASML.AS,ASML Holding,Technology,Semiconductor Equipment & Materials
+ASRNL.AS,ASR Nederland,Financial Services,Insurance - Diversified
+ASSA-B.ST,Assa Abloy,Industrials,Security & Protection Services
+G.MI,Assicurazioni Generali,Financial Services,Insurance - Diversified
+ABF.L,Associated British Foods,Consumer Defensive,Packaged Foods
+AZN.L,AstraZeneca,Healthcare,Drug Manufacturers - Major
+ATL.MI,Atlantia,Industrials,Infrastructure Operations
+ATCO-B.ST,Atlas Copco,Industrials,Diversified Industrials
+ATO.PA,Atos,Technology,Information Technology Services
+AUTO.L,Auto Trader Group,Technology,Internet Content & Information
+AVV.L,AVEVA Group,Technology,Software - Application
+AV.L,Aviva,Financial Services,Insurance - Diversified
+CS.PA,AXA,Financial Services,Insurance - Diversified
+BME.L,B&M European Value Retail,Consumer Defensive,Discount Stores
+BA.L,BAE Systems,Industrials,Aerospace & Defense
+BBY.L,Balfour Beatty,Industrials,Engineering & Construction
+BALN.SW,Bâloise Holding,Financial Services,Insurance - Diversified
+BAMI.MI,Banco BPM,Financial Services,Banks - Regional - Europe
+BIRG.IR,Bank Of Ireland Group,Financial Services,Banks - Regional - Europe
+BKIA.MC,Bankia,Financial Services,Banks - Regional - Europe
+BKT.MC,Bankinter,Financial Services,Banks - Regional - Europe
+BARC.L,Barclays,Financial Services,Banks - Global
+BDEV.L,Barratt Developments,Consumer Cyclical,Residential Construction
+BARN.SW,Barry Callebaut,Consumer Defensive,Confectioners
+BAS.DE,BASF,Basic Materials,Chemicals
+BAYN.DE,Bayer,Healthcare,Drug Manufacturers - Major
+BION.SW,BB Biotech,Healthcare,Biotechnology
+BBA.L,BBA Aviation,Industrials,Airports & Air Services
+BBVA.MC,Banco Bilbao Vizcaya Argentaria,Financial Services,Banks - Global
+BCP.LS,Banco Comercial Português,Financial Services,Banks - Regional - Europe
+SAB.MC,Banco de Sabadell,Financial Services,Banks - Regional - Europe
+SAN.MC,Banco Santander,Financial Services,Banks - Global
+BEZ.L,Beazley,Financial Services,Insurance - Property & Casualty
+BC8.DE,Bechtle,Technology,Information Technology Services
+BEI.DE,Beiersdorf,Consumer Defensive,Household & Personal Products
+BEAN.SW,BELIMO Holding,Basic Materials,Building Materials
+BWY.L,Bellway,Consumer Cyclical,Residential Construction
+BKG.L,Berkeley Group Holdings,Consumer Cyclical,Residential Construction
+BHP.L,BHP Group,Basic Materials,Industrial Metals & Minerals
+BB.PA,Société BIC,Consumer Defensive,Household & Personal Products
+BIM.PA,bioMérieux,Healthcare,Diagnostics & Research
+BMW.DE,BMW,Consumer Cyclical,Auto Manufacturers
+BNP.PA,BNP Paribas,Financial Services,Banks - Regional - Europe
+BOL.ST,Boliden,Basic Materials,Industrial Metals & Minerals
+BOL.PA,Bollore,Industrials,Integrated Shipping & Logistics
+BME.MC,Bolsas y Mercados Españoles,Financial Services,Financial Exchanges
+BOKA.AS,Boskalis Westminster,Industrials,Engineering & Construction
+EN.PA,Bouygues,Industrials,Engineering & Construction
+BP.L,BP,Energy,Oil & Gas Integrated
+BNR.DE,Brenntag,Basic Materials,Specialty Chemicals
+BATS.L,British American Tobacco,Consumer Defensive,Tobacco
+BLND.L,British Land Company,Real Estate,REIT - Retail
+BVIC.L,Britvic,Consumer Defensive,Beverages - Soft Drinks
+BT-A.L,BT Group,Communication Services,Telecom Services
+BTG.L,BTG,Healthcare,Biotechnology
+BUCN.SW,Bucher Industries,Industrials,Diversified Industrials
+BNZL.L,Bunzl,Consumer Defensive,Food Distribution
+BRBY.L,Burberry,Consumer Cyclical,Luxury Goods
+BVI.PA,Bureau Veritas,Industrials,Business Services
+CABK.MC,CaixaBank,Financial Services,Banks - Regional - Europe
+CAP.PA,Capgemini,Technology,Information Technology Services
+CPI.L,Capita,Industrials,Business Services
+AFX.DE,Carl Zeiss Meditec,Healthcare,Medical Instruments & Supplies
+CARL-B.CO,Carlsberg,Consumer Defensive,Beverages - Brewers
+CCL.L,Carnival,Consumer Cyclical,Leisure
+CA.PA,Carrefour,Consumer Defensive,Grocery Stores
+CO.PA,"Casino, Guichard-Perrachon",Consumer Defensive,Grocery Stores
+CAST.ST,Castellum,Real Estate,Real Estate - General
+0LX1.IL,CD Projekt,Technology,Electronic Gaming & Multimedia
+CLNX.MC,Cellnex Telecom,Communication Services,Telecom Services
+CMBN.SW,Cembra Money Bank,Financial Services,Banks - Regional - Europe
+CNA.L,Centrica,Utilities,Utilities - Diversified
+CHR.CO,Chr. Hansen Holding,Basic Materials,Specialty Chemicals
+CDI.PA,Christian Dior,Consumer Cyclical,Luxury Goods
+CFR.SW,Compagnie Financière Richemont,Consumer Cyclical,Luxury Goods
+CINE.L,Cineworld Group,Consumer Cyclical,Media - Diversified
+CLN.SW,Clariant,Basic Materials,Specialty Chemicals
+CBG.L,Close Brothers Group,Financial Services,Asset Management
+CNHI.MI,CNH Industrial NV,Industrials,Farm & Construction Equipment
+CNP.PA,CNP Assurances,Financial Services,Insurance - Life
+COB.L,Cobham,Industrials,Aerospace & Defense
+CCH.L,Coca-Cola HBC,Consumer Defensive,Beverages - Soft Drinks
+COFB.BR,Cofinimmo,Real Estate,REIT - Diversified
+COLO-B.CO,Coloplast,Healthcare,Medical Instruments & Supplies
+CBK.DE,Commerzbank,Financial Services,Banks - Regional - Europe
+CPG.L,Compass Group,Consumer Cyclical,Restaurants
+CON.DE,Continental,Consumer Cyclical,Auto Parts
+CTEC.L,Convatec Group,Healthcare,Medical Instruments & Supplies
+1COV.DE,Covestro,Basic Materials,Specialty Chemicals
+COVH.PA,Covivio,Real Estate,REIT - Hotel & Motel
+ACA.PA,Crédit Agricole,Financial Services,Banks - Regional - Europe
+CSGN.SW,Credit Suisse Group,Financial Services,Banks - Global
+CRG.IR,CRH,Basic Materials,Building Materials
+CRDA.L,Croda International,Basic Materials,Specialty Chemicals
+CYBG.L,CYBG,Financial Services,Banks - Regional - Europe
+DAI.DE,Daimler,Consumer Cyclical,Auto Manufacturers
+BN.PA,Danone,Consumer Defensive,Packaged Foods
+DANSKE.CO,Danske Bank,Financial Services,Banks - Regional - Europe
+AM.PA,Dassault Aviation,Industrials,Aerospace & Defense
+DSY.PA,Dassault Systèmes,Technology,Software
+CPR.MI,Davide Campari,Consumer Defensive,Beverages - Wineries & Distilleries
+DCC.L,DCC,Energy,Oil & Gas Refining & Marketing
+DPH.L,Dechra Pharmaceuticals,Healthcare,Drug Manufacturers - Major
+DHER.DE,Delivery Hero,Technology,Internet Content & Information
+WDH.CO,Demant,Healthcare,Medical Instruments & Supplies
+DLN.L,Derwent London,Real Estate,REIT - Diversified
+DBK.DE,Deutsche Bank,Financial Services,Banks - Regional - Europe
+DB1.DE,Deutsche Börse,Financial Services,Financial Exchanges
+DPW.DE,Deutsche Post,Industrials,Integrated Shipping & Logistics
+DTE.DE,Deutsche Telekom,Communication Services,Telecom Services
+DWNI.DE,Deutsche Wohnen,Real Estate,Real Estate - General
+DGE.L,Diageo,Consumer Defensive,Beverages - Wineries & Distilleries
+DLG.DE,Dialog Semiconductor,Technology,Semiconductors
+DIA.MI,DiaSorin,Healthcare,Diagnostics & Research
+DLG.L,Direct Line Insurance Group,Financial Services,Insurance - Diversified
+DKSH.SW,DKSH Holding,Industrials,Business Services
+DNB.OL,DNB,Financial Services,Banks - Regional - Europe
+DOM.ST,Dometic Group,Technology,Consumer Electronics
+SMDS.L,DS Smith,Consumer Cyclical,Packaging & Containers
+DSV.CO,DSV,Industrials,Integrated Shipping & Logistics
+DUFN.SW,Dufry,Consumer Cyclical,Specialty Retail
+EOAN.DE,E.ON,Utilities,Utilities - Diversified
+EZJ.L,EasyJet,Industrials,Airlines
+EDEN.PA,Edenred,Financial Services,Credit Services
+EDF.PA,Electricité de France,Utilities,Utilities - Diversified
+EDP.LS,EDP - Energias de Portugal,Utilities,Utilities - Diversified
+FGR.PA,Eiffage,Industrials,Engineering & Construction
+ECM.L,Electrocomponents,Industrials,Industrial Distribution
+ELUX-B.ST,Electrolux,Technology,Consumer Electronics
+EKTA-B.ST,Elekta,Healthcare,Medical Instruments & Supplies
+ELIS.PA,Elis,Industrials,Business Services
+ELISA.HE,Elisa,Communication Services,Telecom Services
+EMSN.SW,EMS-CHEMIE HOLDING,Basic Materials,Chemicals
+ENG.MC,Enagas,Utilities,Utilities - Regulated Gas
+ELE.MC,Endesa,Utilities,Utilities - Regulated Electric
+ENEL.MI,Enel,Utilities,Utilities - Diversified
+ENGI.PA,Engie,Utilities,Utilities - Diversified
+ENI.MI,Eni,Energy,Oil & Gas Integrated
+EPI-A.ST,Epiroc,Industrials,Farm & Construction Equipment
+EQNR.OL,Equinor,Energy,Oil & Gas Integrated
+ERIC-B.ST,Ericsson LM,Technology,Communication Equipment
+EBS.VI,Erste Group Bank,Financial Services,Banks - Regional - Europe
+EL.PA,EssilorLuxottica,Healthcare,Medical Instruments & Supplies
+ESSITY-B.ST,Essity,Consumer Defensive,Household & Personal Products
+COLR.BR,ETS Colruyt,Consumer Defensive,Grocery Stores
+RF.PA,Eurazeo,Financial Services,Asset Management
+ERF.PA,Eurofins Scientific,Healthcare,Diagnostics & Research
+ENX.PA,Euronext,Financial Services,Financial Exchanges
+ETL.PA,Eutelsat Communications,Technology,Communication Equipment
+EVK.DE,Evonik Industries,Basic Materials,Specialty Chemicals
+EVT.DE,Evotec,Healthcare,Drug Manufacturers - Specialty & Generic
+EVR.L,EVRAZ,Basic Materials,Steel
+EXO.MI,EXOR,Financial Services,Asset Management
+EXPN.L,Experian,Industrials,Business Services
+FABG.ST,Fabege,Real Estate,Real Estate - General
+BALD-B.ST,Fastighets Balder,Real Estate,Real Estate Services
+EO.PA,Faurecia,Consumer Cyclical,Auto Parts
+FERG.L,Ferguson,Industrials,Industrial Distribution
+RACE.MI,Ferrari,Consumer Cyclical,Auto Manufacturers
+FER.MC,Ferrovial,Industrials,Infrastructure Operations
+FCA.MI,Fiat Chrysler Automobiles,Consumer Cyclical,Auto Manufacturers
+FBK.MI,FinecoBank,Financial Services,Banks - Regional - Europe
+FHZN.SW,Flughafen Zürich,Industrials,Airports & Air Services
+FLTR.L,Flutter Entertainment,Consumer Cyclical,Gambling
+FORTUM.HE,Fortum,Utilities,Utilities - Diversified
+FRA.DE,Fraport,Industrials,Infrastructure Operations
+FNTN.DE,Freenet,Communication Services,Telecom Services
+FRE.DE,Fresenius,Healthcare,Medical Care
+FME.DE,Fresenius Medical Care,Healthcare,Medical Care
+FPE.DE,Fuchs Petrolub,Basic Materials,Chemicals
+GLPG.AS,Galapagos,Healthcare,Biotechnology
+GALE.SW,Galenica,Healthcare,Biotechnology
+GALP.LS,Galp Energia,Energy,Oil & Gas Integrated
+G1A.DE,GEA Group,Industrials,Diversified Industrials
+GEBN.SW,Geberit,Basic Materials,Building Materials
+GFC.PA,Gecina,Real Estate,REIT - Office
+GMAB.CO,Genmab,Healthcare,Biotechnology
+FI.SW,Georg Fischer,Industrials,Diversified Industrials
+GXI.DE,Gerresheimer,Healthcare,Medical Instruments & Supplies
+GETI-B.ST,Getinge,Healthcare,Medical Instruments & Supplies
+GET.PA,Getlink,Industrials,Infrastructure Operations
+GIVN.SW,Givaudan,Basic Materials,Specialty Chemicals
+GJF.OL,Gjensidige Forsikring,Financial Services,Insurance - Diversified
+GL9.IR,Glanbia,Consumer Defensive,Packaged Foods
+GSK.L,GlaxoSmithKline,Healthcare,Drug Manufacturers - Major
+GLEN.L,Glencore,Basic Materials,Industrial Metals & Minerals
+GN.CO,GN Store Nord,Healthcare,Medical Devices
+GYC.DE,Grand City Properties,Real Estate,Real Estate Services
+GPOR.L,Great Portland Estates,Real Estate,REIT - Diversified
+GNK.L,Greene King,Consumer Cyclical,Restaurants
+GRG.L,Greggs,Consumer Defensive,Grocery Stores
+GLJ.DE,Grenke,Financial Services,Credit Services
+GRF.MC,Grifols,Healthcare,Drug Manufacturers - Major
+GFS.L,GRP 4 Securicor,Industrials,Security & Protection Services
+GBLB.BR,Groupe Bruxelles Lambert,Financial Services,Asset Management
+GLE.PA,Société Générale,Financial Services,Banks - Regional - Europe
+GVC.L,GVC Holdings,Consumer Cyclical,Resorts & Casinos
+LUN.CO,H. Lundbeck,Healthcare,Drug Manufacturers - Specialty & Generic
+HLMA.L,Halma,Industrials,Security & Protection Services
+HMSO.L,Hammerson,Real Estate,REIT - Retail
+HNR1.DE,Hannover Rück,Financial Services,Insurance - Reinsurance
+HL.L,Hargreaves Lansdown,Financial Services,Asset Management
+HAS.L,Hays,Industrials,Staffing & Outsourcing Services
+HEI.DE,HeidelbergCement,Basic Materials,Building Materials
+HEIA.AS,Heineken,Consumer Defensive,Beverages - Brewers
+HEIO.AS,Heineken Holding,Consumer Defensive,Beverages - Brewers
+HLE.DE,HELLA,Consumer Cyclical,Auto Parts
+HELN.SW,Helvetia Holding,Financial Services,Insurance - Diversified
+HEN3.DE,Henkel,Consumer Defensive,Household & Personal Products
+HM-B.ST,Hennes & Mauritz,Consumer Cyclical,Apparel Manufacturing
+HER.MI,Hera,Utilities,Utilities - Diversified
+RMS.PA,Hermès International,Consumer Cyclical,Luxury Goods
+HEXA-B.ST,Hexagon,Industrials,Diversified Industrials
+HPOL-B.ST,HEXPOL,Basic Materials,Specialty Chemicals
+HIK.L,Hikma Pharmaceuticals,Healthcare,Drug Manufacturers - Specialty & Generic
+HSX.L,Hiscox,Financial Services,Insurance - Property & Casualty
+HOT.DE,HOCHTIEF,Industrials,Engineering & Construction
+HSV.L,HomeServe,Industrials,Business Services
+HWDN.L,Howden Joinery Group,Consumer Cyclical,Home Furnishings & Fixtures
+HSBA.L,HSBC,Financial Services,Banks - Global
+BOSS.DE,Hugo Boss,Consumer Cyclical,Apparel Manufacturing
+HUH1V.HE,Huhtamäki,Consumer Cyclical,Packaging & Containers
+HUSQ-B.ST,Husqvarna,Industrials,Tools & Accessories
+IAG.L,International Consolidated Airlines Group,Industrials,Airlines
+IBE.MC,Iberdrola,Utilities,Utilities - Diversified
+ICA.ST,ICA Gruppen,Consumer Defensive,Grocery Stores
+ICAD.PA,Icade,Real Estate,REIT - Diversified
+IGG.L,IG Group Holdings,Financial Services,Capital Markets
+ILD.PA,Iliad,Communication Services,Telecom Services
+IMCD.AS,IMCD,Basic Materials,Specialty Chemicals
+IMI.L,IMI,Industrials,Diversified Industrials
+IMB.L,Imperial Brands,Consumer Defensive,Tobacco
+INCH.L,Inchcape,Consumer Cyclical,Auto & Truck Dealerships
+ITX.MC,Industria de Diseno Textil,Consumer Cyclical,Apparel Stores
+INDU-C.ST,Industrivärden,Financial Services,Asset Management
+INDT.ST,Indutrade,Industrials,Industrial Distribution
+IFX.DE,Infineon Technologies,Technology,Semiconductors
+INF.L,Informa,Consumer Cyclical,Publishing
+INGA.AS,ING Groep,Financial Services,Banks - Global
+ING.PA,Ingenico Group,Industrials,Business Services
+ISAT.L,Inmarsat,Communication Services,Telecom Services
+COL.MC,Inmobiliaria Colonial Socimi,Real Estate,REIT - Office
+IGY.DE,Innogy,Utilities,Utilities - Regulated Electric
+IHG.L,InterContinental Hotels Group,Consumer Cyclical,Lodging
+ICP.L,Intermediate Capital Group,Financial Services,Asset Management
+IP.MI,Interpump Group,Industrials,Diversified Industrials
+ITRK.L,Intertek Group,Industrials,Business Services
+ISP.MI,Intesa Sanpaolo,Financial Services,Banks - Regional - Europe
+INVP.L,Investec,Financial Services,Asset Management
+INVE-B.ST,Investor,Financial Services,Asset Management
+IPN.PA,Ipsen,Healthcare,Drug Manufacturers - Specialty & Generic
+ISS.CO,ISS,Industrials,Business Services
+IG.MI,Italgas,Utilities,Utilities - Regulated Gas
+ITV.L,ITV,Consumer Cyclical,Broadcasting - TV
+IWG.L,IWG,Industrials,Business Services
+DEC.PA,JCDecaux,Consumer Cyclical,Advertising Agencies
+JD.L,JD Sports Fashion,Consumer Cyclical,Specialty Retail
+JMT.LS,Jerónimo Martins,Consumer Defensive,Food Distribution
+JMAT.L,Johnson Matthey,Basic Materials,Specialty Chemicals
+BAER.SW,Julius Bär Gruppe,Financial Services,Asset Management
+JUP.L,Jupiter Fund Management,Financial Services,Asset Management
+JE.L,Just Eat,Technology,Internet Content & Information
+JYSK.CO,Jyske Bank,Financial Services,Banks - Regional - Europe
+SDF.DE,K+S,Basic Materials,Agricultural Inputs
+KBC.BR,KBC Group,Financial Services,Banks - Regional - Europe
+KER.PA,Kering,Consumer Cyclical,Footwear & Accessories
+KRZ.IR,Kerry Group,Consumer Defensive,Packaged Foods
+KESKOB.HE,Kesko,Consumer Defensive,Grocery Stores
+0O8D.IL,KGHM Polska Miedz,Basic Materials,Copper
+KGF.L,Kingfisher,Consumer Cyclical,Home Improvement Stores
+KRX.IR,Kingspan Group,Basic Materials,Building Materials
+KINV-B.ST,Kinnevik,Financial Services,Asset Management
+KGX.DE,Kion Group,Industrials,Truck Manufacturing
+LI.PA,Klépierre,Real Estate,REIT - Retail
+KBX.DE,Knorr-Bremse,Consumer Cyclical,Auto Parts
+KNEBV.HE,Kone,Industrials,Diversified Industrials
+KCR.HE,Konecranes,Industrials,Farm & Construction Equipment
+DSM.AS,DSM,Basic Materials,Specialty Chemicals
+KPN.AS,KPN,Communication Services,Telecom Services
+KNIN.SW,Kuehne + Nagel,Industrials,Integrated Shipping & Logistics
+OR.PA,L'Oréal,Consumer Defensive,Household & Personal Products
+LHN.SW,LafargeHolcim,Basic Materials,Building Materials
+MMB.PA,Lagardère,Consumer Cyclical,Publishing
+LAND.L,Land Securities Group,Real Estate,REIT - Diversified
+LXS.DE,Lanxess,Basic Materials,Specialty Chemicals
+LEG.DE,LEG Immobilien,Real Estate,Real Estate - General
+LGEN.L,Legal & General Group,Financial Services,Insurance - Life
+LR.PA,Legrand,Industrials,Diversified Industrials
+LDO.MI,Leonardo,Industrials,Aerospace & Defense
+LIN.DE,Linde,Basic Materials,Specialty Chemicals
+LISN.SW,Lindt & Sprüngli,Consumer Defensive,Confectioners
+LLOY.L,Lloyds Banking Group,Financial Services,Banks - Regional - Europe
+LOGN.SW,Logitech International,Technology,Computer Systems
+LSE.L,London Stock Exchange,Financial Services,Lonza Group
+LONN.SW,Lonza Group,Healthcare,Diagnostics & Research
+LOOM-B.ST,Loomis,Industrials,Business Services
+0LVL.IL,LPP,Consumer Cyclical,Apparel Manufacturing
+LHA.DE,Lufthansa,Industrials,Airlines
+LUND-B.ST,Lundbergföretagen,Financial Services,Lundin Petroleum
+LUPE.ST,Lundin Petroleum,Energy,Oil & Gas E&P
+MC.PA,LVMH Moet Hennessy,Consumer Cyclical,Luxury Goods
+EMG.L,Man Group,Financial Services,Asset Management
+MAP.MC,Mapfre,Financial Services,Insurance - Specialty
+MKS.L,Marks and Spencer,Consumer Cyclical,Department Stores
+MB.MI,Mediobanca,Financial Services,Banks - Regional - Europe
+MGGT.L,Meggitt,Industrials,Aerospace & Defense
+MRO.L,Melrose Industries,Industrials,Diversified Industrials
+MRK.DE,Merck,Healthcare,Drug Manufacturers - Specialty & Generic
+MERL.L,Merlin Entertainments,Consumer Cyclical,Media - Diversified
+MRL.MC,Merlin Properties Socimi,Real Estate,REIT - Diversified
+B4B.DE,Metro,Consumer Defensive,Food Distribution
+METSO.HE,Metso,Industrials,Conglomerates
+ML.PA,Michelin,Consumer Cyclical,Rubber & Plastics
+MCRO.L,Micro Focus International,Technology,Software - Application
+MONC.MI,Moncler,Consumer Cyclical,Apparel Manufacturing
+MNDI.L,Mondi,Basic Materials,Paper & Paper Products
+MONY.L,Moneysupermarket,Technology,Internet Content & Information
+MOR.DE,MorphoSys,Healthcare,Biotechnology
+MRW.L,Morrison Supermark,Consumer Defensive,Grocery Stores
+MOWI.OL,Mowi,Consumer Defensive,Farm Products
+MTX.DE,MTU Aero Engines,Industrials,Aerospace & Defense
+MUV2.DE,Münchener Rück,Financial Services,Insurance - Reinsurance
+NG.L,National Grid,Utilities,Utilities - Diversified
+KN.PA,Natixis,Financial Services,Banks - Regional - Europe
+NTGY.MC,Naturgy Energy Group,Utilities,Utilities - Regulated Gas
+NEM.DE,Nemetschek,Technology,Software - Application
+NESTE.HE,Neste,Energy,Oil & Gas Refining & Marketing
+NESN.SW,Nestlé,Consumer Defensive,Packaged Foods
+SMWH.L,WH Smith,Consumer Cyclical,Specialty Retail
+NXT.L,NEXT,Consumer Cyclical,Apparel Stores
+NIBE-B.ST,NIBE Industrier,Basic Materials,Building Materials
+NMC.L,NMC Health,Healthcare,Medical Care
+NN.AS,NN Group,Financial Services,Insurance - Diversified
+NOKIA.HE,Nokia,Technology,Communication Equipment
+TYRES.HE,Nokian Renkaat,Consumer Cyclical,Rubber & Plastics
+NDA-SE.ST,Nordea Bank,Financial Services,Banks - Regional - Europe
+NHY.OL,Norsk Hydro,Basic Materials,Aluminum
+NOVN.SW,Novartis,Healthcare,Drug Manufacturers - Major
+NOVO-B.CO,Novo Nordisk,Healthcare,Biotechnology
+NZYM-B.CO,Novozymes,Healthcare,Biotechnology
+OERL.SW,OC Oerlikon,Industrials,Diversified Industrials
+OCDO.L,Ocado Group,Consumer Defensive,Grocery Stores
+OMU.L,Old Mutual,Financial Services,Asset Management
+OMV.VI,OMV,Energy,Oil & Gas Integrated
+ORA.PA,Orange,Communication Services,Telecom Services
+ORNBV.HE,Orion,Healthcare,Drug Manufacturers - Specialty & Generic
+ORK.OL,Orkla,Consumer Defensive,Packaged Foods
+ORP.PA,ORPEA,Healthcare,Long-Term Care Facilities
+ORSTED.CO,Ørsted,Utilities,Utilities - Independent Power Producers
+OSR.DE,OSRAM Licht,Technology,Electronic Components
+PNDORA.CO,Pandora,Consumer Cyclical,Luxury Goods
+PARG.SW,Pargesa,Industrials,Conglomerates
+PGHN.SW,Partners Group Holding,Financial Services,Asset Management
+PSON.L,Pearson,Consumer Cyclical,Publishing
+0DP0.IL,Bank Pekao,Financial Services,Banks - Regional - Europe
+PNN.L,Pennon Group,Utilities,Utilities - Regulated Water
+RI.PA,Pernod Ricard,Consumer Defensive,Beverages - Wineries & Distilleries
+PSN.L,Persimmon,Consumer Cyclical,Residential Construction
+UG.PA,PSA Peugeot Citroën,Consumer Cyclical,Auto Manufacturers
+PHIA.AS,Philips,Healthcare,Diagnostics & Research
+PGR.L,Phoenix Global Resources,Energy,Oil & Gas E&P
+PIRC.MI,Pirelli,Consumer Cyclical,Rubber & Plastics
+0FMN.IL,PKN Orlen,Energy,Oil & Gas Integrated
+0FMO.IL,Bank Polski,Financial Services,Banks - Regional - Europe
+0OFR.IL,PGNiG,Energy,Oil & Gas Integrated
+POLY.L,Polymetal International,Basic Materials,Industrial Metals & Minerals
+PAH3.DE,Porsche Automobil,Consumer Cyclical,Auto Manufacturers
+PST.MI,Poste Italiane,Financial Services,Insurance Brokers
+PSM.DE,ProSiebenSat.1 Media,Consumer Cyclical,Broadcasting - TV
+PROX.BR,Proximus,Communication Services,Telecom Services
+PRU.L,Prudential,Financial Services,Insurance - Life
+PRY.MI,Prysmian,Technology,Communication Equipment
+PSPN.SW,PSP Swiss Property,Real Estate,Real Estate - General
+PUB.PA,Publicis,Consumer Cyclical,Advertising Agencies
+PUM.DE,PUMA,Consumer Cyclical,Footwear & Accessories
+0MYY.IL,PZU Group,Financial Services,Insurance - Diversified
+QIA.DE,QIAGEN,Healthcare,Diagnostics & Research
+QLT.L,Quilter,Financial Services,Asset Management
+RBI.VI,Raiffeisen Bank International,Financial Services,Banks - Regional - Europe
+RAND.AS,Randstad,Industrials,Staffing & Outsourcing Services
+RB.L,Reckitt Benckiser,Consumer Defensive,Household & Personal Products
+REC.MI,Recordati,Healthcare,Drug Manufacturers - Major
+REE.MC,Red Electrica Corp.,Utilities,Utilities - Regulated Electric
+REL.L,RELX,Consumer Cyclical,Publishing
+RCO.PA,Rémy Cointreau,Consumer Defensive,Beverages - Wineries & Distilleries
+RNO.PA,Renault,Consumer Cyclical,Auto Manufacturers
+RTO.L,Rentokil Initial,Industrials,Business Services
+REP.MC,Repsol,Energy,Oil & Gas Integrated
+RXL.PA,Rexel,Technology,Electronics Distribution
+RHM.DE,Rheinmetall,Industrials,Diversified Industrials
+RMV.L,Rightmove,Technology,Internet Content & Information
+RIO.L,Rio Tinto,Basic Materials,Roche Holding
+ROG.SW,Roche,Healthcare,Drug Manufacturers - Major
+ROCK-B.CO,ROCKWOOL,Basic Materials,Building Materials
+RR.L,Rolls-Royce,Industrials,Aerospace & Defense
+ROR.L,Rotork,Industrials,Diversified Industrials
+RBS.L,Royal Bank of Scotland,Financial Services,Banks - Global
+RDSA.L,Royal Dutch Shell,Energy,Oil & Gas Integrated
+RMG.L,Royal Mail,Industrials,Integrated Shipping & Logistics
+RBREW.CO,Royal Unibrew,Consumer Defensive,Beverages - Brewers
+RSA.L,RSA Insurance Group,Financial Services,Insurance - Property & Casualty
+RRTL.DE,RTL Group,Consumer Cyclical,Broadcasting - TV
+RUI.PA,Rubis,Utilities,Utilities - Regulated Gas
+RWE.DE,RWE,Utilities,Utilities - Diversified
+RY4C.IR,Ryanair,Industrials,Airlines
+SAAB-B.ST,Saab,Industrials,Aerospace & Defense
+SAF.PA,Safran,Industrials,Aerospace & Defense
+SGE.L,Sage,Technology,Software - Application
+SBRY.L,Sainsbury,Consumer Defensive,Grocery Stores
+SGO.PA,Saint-Gobain,Basic Materials,Building Materials
+SPM.MI,Saipem,Energy,Oil & Gas Equipment & Services
+SALM.OL,SalMar,Consumer Defensive,Farm Products
+SAMPO.HE,Sampo,Financial Services,Insurance - Property & Casualty
+SAND.ST,Sandvik,Industrials,Diversified Industrials
+SAN.PA,Sanofi,Healthcare,Drug Manufacturers - Major
+0DVR.IL,Santander Bank Polska,Financial Services,Banks - Regional - Europe
+SAP.DE,SAP,Technology,Software - Application
+SRT3.DE,Sartorius,Healthcare,Diagnostics & Research
+DIM.PA,Sartorius Stedim Biotech,Healthcare,Medical Devices
+SBMO.AS,SBM Offshore,Energy,Oil & Gas Equipment & Services
+SCHB.OL,Schibsted,Consumer Cyclical,Publishing
+SCHP.SW,Schindler Holding,Industrials,Diversified Industrials
+SU.PA,Schneider Electric,Industrials,Diversified Industrials
+SDR.L,Schroders,Financial Services,Asset Management
+SCR.PA,SCOR,Financial Services,Insurance - Reinsurance
+SSE.L,SSE,Utilities,Utilities - Diversified
+G24.DE,Scout24,Technology,Internet Content & Information
+SK.PA,SEB,Consumer Defensive,Household & Personal Products
+SECU-B.ST,Securitas,Industrials,Security & Protection Services
+SGRO.L,SEGRO,Real Estate,REIT - Industrial
+SESG.PA,SES,Consumer Cyclical,Broadcasting - TV
+SVT.L,Severn Trent,Utilities,Utilities - Regulated Water
+SGSN.SW,SGS,Industrials,Business Services
+SIE.DE,Siemens,Industrials,Diversified Industrials
+SGRE.MC,Siemens Gamesa Renewable Energy,Industrials,Diversified Industrials
+SHL.DE,Siemens Healthineers,Healthcare,Diagnostics & Research
+LIGHT.AS,Signify,Technology,Electronic Components
+SIKA.SW,Sika,Basic Materials,Specialty Chemicals
+SIM.CO,SimCorp,Technology,Software - Application
+SEB-A.ST,Skandinaviska Enskilda Banken,Financial Services,Banks - Regional - Europe
+SKA-B.ST,Skanska,Industrials,Engineering & Construction
+SKF-B.ST,SKF,Industrials,Tools & Accessories
+SN.L,Smith & Nephew,Healthcare,Medical Devices
+SMIN.L,Smiths Group,Industrials,Diversified Industrials
+SK3.IR,Smurfit Kappa Group,Consumer Cyclical,Packaging & Containers
+SRG.MI,Snam,Utilities,Utilities - Regulated Gas
+SW.PA,Sodexo,Industrials,Business Services
+SOF.BR,Sofina,Financial Services,Asset Management
+SOLB.BR,Solvay,Basic Materials,Chemicals
+SOON.SW,Sonova Holding,Healthcare,Medical Instruments & Supplies
+SOP.PA,Sopra Steria Group,Technology,Information Technology Services
+SXS.L,Spectris,Technology,Scientific & Technical Instruments
+SPIE.PA,SPIE,Industrials,Engineering & Construction
+SPX.L,Spirax-Sarco Engineering,Industrials,Diversified Industrials
+SPR.DE,Axel Springer,Consumer Cyclical,Publishing
+SSPG.L,SSP Group,Consumer Cyclical,Restaurants
+STJ.L,St. James's Place,Financial Services,Insurance - Life
+STAN.L,Standard Chartered,Financial Services,Banks - Global
+SLA.L,Standard Life Aberdeen,Financial Services,Insurance - Life
+STM.MI,STMicroelectronics,Technology,Semiconductors
+STERV.HE,Stora Enso,Basic Materials,Paper & Paper Products
+STB.OL,Storebrand,Financial Services,Insurance - Life
+STMN.SW,Straumann,Healthcare,Medical Instruments & Supplies
+SUBC.OL,Subsea,Energy,Oil & Gas Equipment & Services
+SEV.PA,Suez,Utilities,Utilities - Regulated Water
+SRCG.SW,Sunrise Communications,Communication Services,Telecom Services
+SCA-B.ST,Svenska Cellulosa,Basic Materials,Lumber & Wood Production
+SHB-A.ST,Svenska Handelsbanken,Financial Services,Banks - Global
+UHR.SW,Swatch Group,Consumer Cyclical,Luxury Goods
+SWED-A.ST,Swedbank,Financial Services,Banks - Regional - Europe
+SWMA.ST,Swedish Match,Consumer Defensive,Tobacco
+SOBI.ST,Swedish Orphan Biovitrum,Healthcare,Drug Manufacturers - Specialty & Generic
+SLHN.SW,Swiss Life Holding,Financial Services,Insurance - Diversified
+SPSN.SW,Swiss Prime Site,Real Estate,Real Estate - General
+SREN.SW,Swiss Reinsurance,Financial Services,Insurance - Reinsurance
+SCMN.SW,Swisscom,Communication Services,Telecom Services
+SY1.DE,Symrise,Basic Materials,Specialty Chemicals
+TEG.DE,TAG Immobilien,Real Estate,Real Estate - General
+TKWY.AS,Takeaway,Technology,Internet Content & Information
+TATE.L,Tate & Lyle,Consumer Defensive,Packaged Foods
+TW.L,Taylor Wimpey,Consumer Cyclical,Residential Construction
+TECN.SW,Tecan Group,Healthcare,Medical Devices
+FTI.PA,TechnipFMC,Energy,Oil & Gas Equipment & Services
+TEL2-B.ST,Tele2,Communication Services,Telecom Services
+TIT.MI,Telecom Italia,Communication Services,Telecom Services
+TEF.MC,Telefonica,Communication Services,Telecom Services
+O2D.DE,Telefónica Deutschland Holding,Communication Services,Telecom Services
+TNET.BR,Telenet Group Holding,Communication Services,Telecom Services
+TEL.OL,Telenor,Communication Services,Telecom Services
+TEP.PA,Teleperformance,Industrials,Business Services
+TELIA.ST,Telia Company,Communication Services,Telecom Services
+TEMN.SW,Temenos,Technology,Software - Infrastructure
+TEN.MI,Tenaris,Energy,Oil & Gas Equipment & Services
+TRN.MI,Terna Rete Elettrica Nazionale,Utilities,Utilities - Regulated Electric
+TSCO.L,Tesco,Consumer Defensive,Grocery Stores
+TGS.OL,TGS-NOPEC Geophysical Company,Energy,Oil & Gas Equipment & Services
+HO.PA,Thales,Industrials,Aerospace & Defense
+TKA.DE,ThyssenKrupp,Industrials,Metal Fabrication
+TOM.OL,Tomra Systems,Industrials,Waste Management
+TOP.CO,Topdanmark,Financial Services,Insurance - Diversified
+FP.PA,Total,Energy,Oil & Gas Integrated
+TPK.L,Travis Perkins,Basic Materials,Building Materials
+TREL-B.ST,Trelleborg,Industrials,Diversified Industrials
+BBOX.L,Tritax Big Box REIT,Real Estate,REIT - Retail
+TRYG.CO,Tryg,Financial Services,Insurance - Diversified
+TUI.L,TUI,Consumer Cyclical,Leisure
+TLW.L,Tullow Oil,Energy,Oil & Gas E&P
+UBI.MI,Unione di Banche Italiane,Financial Services,Banks - Regional - Europe
+UBI.PA,Ubisoft Entertainment,Technology,Electronic Gaming & Multimedia
+UBSG.SW,UBS Group,Financial Services,Banks - Global
+UCB.BR,UCB,Healthcare,Biotechnology
+UDG.L,UDG Healthcare,Healthcare,Medical Care
+UMI.BR,Umicore,Industrials,Waste Management
+URW.AS,Unibail-Rodamco-Westfield,Real Estate,REIT - Retail
+UCG.MI,UniCredit,Financial Services,Banks - Regional - Europe
+UNA.AS,Unilever,Consumer Defensive,Household & Personal Products
+UN01.DE,Uniper,Utilities,Utilities - Independent Power Producers
+UTG.L,Unite Group,Real Estate,REIT - Diversified
+UTDI.DE,United Internet,Communication Services,Telecom Services
+UU.L,United Utilities Group,Utilities,Utilities - Regulated Water
+UPM.HE,UPM-Kymmene,Basic Materials,Paper & Paper Products
+FR.PA,Valeo,Consumer Cyclical,Auto Parts
+VALMT.HE,Valmet,Industrials,Diversified Industrials
+VACN.SW,VAT Group,Industrials,Diversified Industrials
+VIE.PA,Veolia,Industrials,Waste Management
+VER.VI,Verbund,Utilities,Utilities - Regulated Electric
+VWS.CO,Vestas Wind Systems,Industrials,Diversified Industrials
+VCT.L,Victrex,Basic Materials,Specialty Chemicals
+VIFN.SW,Vifor Pharma,Healthcare,Drug Manufacturers - Specialty & Generic
+DG.PA,Vinci,Industrials,Engineering & Construction
+VIS.MC,Viscofan,Consumer Defensive,Packaged Foods
+VIV.PA,Vivendi,Consumer Cyclical,Broadcasting - TV
+VOD.L,Vodafone Group,Communication Services,Telecom Services
+VOE.VI,Voestalpine,Basic Materials,Steel
+VOW3.DE,Volkswagen Group,Consumer Cyclical,Auto Manufacturers
+VOLV-B.ST,Volvo,Industrials,Truck Manufacturing
+VNA.DE,Vonovia,Real Estate,Real Estate Services
+VPK.AS,Vopak,Energy,Oil & Gas Equipment & Services
+WRT1V.HE,Wärtsilä Oyj,Industrials,Diversified Industrials
+WDP.BR,Warehouses De Pauw,Real Estate,REIT - Industrial
+WEIR.L,Weir Group,Industrials,Diversified Industrials
+MF.PA,Wendel,Financial Services,Asset Management
+WTB.L,Whitbread,Consumer Cyclical,Restaurants
+WIE.VI,Wienerberger,Basic Materials,Building Materials
+WDI.DE,Wirecard,Technology,Software - Infrastructure
+WKL.AS,Wolters Kluwer,Consumer Cyclical,Publishing
+WG.L,John Wood Group,Energy,Oil & Gas Equipment & Services
+WLN.PA,Worldline,Industrials,Business Services
+WPP.L,WPP,Consumer Cyclical,Advertising Agencies
+YAR.OL,Yara International,Basic Materials,Agricultural Inputs
+ZAL.DE,Zalando,Consumer Cyclical,Specialty Retail
+ZURN.SW,Zurich Insurance Group,Financial Services,Insurance - Diversified
